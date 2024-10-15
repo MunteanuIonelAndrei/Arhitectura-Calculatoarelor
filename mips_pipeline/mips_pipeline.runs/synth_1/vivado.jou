@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2016.4 (64-bit)
+# SW Build 1756540 on Mon Jan 23 19:11:23 MST 2017
+# IP Build 1755317 on Mon Jan 23 20:30:07 MST 2017
+# Start of session at: Thu May 12 22:18:46 2022
+# Process ID: 26840
+# Current directory: C:/Users/andre/Documents/An2_sem_2/AC/mips_pipeline/mips_pipeline.runs/synth_1
+# Command line: vivado.exe -log test_env.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source test_env.tcl
+# Log file: C:/Users/andre/Documents/An2_sem_2/AC/mips_pipeline/mips_pipeline.runs/synth_1/test_env.vds
+# Journal file: C:/Users/andre/Documents/An2_sem_2/AC/mips_pipeline/mips_pipeline.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source test_env.tcl -notrace
